@@ -1,0 +1,27 @@
+{
+    "mercadopago": {
+        "habilitado": false,
+        "configurado": false,
+        "access_key": ""
+    },
+    "efi": {
+        "habilitado": false,
+        "configurado": false,
+        "clientID": "",
+        "clientSecret": "",
+        "chavePix": ""
+    },
+    "semiauto": {
+        "habilitado": false,
+        "configurado": true,
+        "chavePix": "snoowonly@gmail.com",
+        "tipoPix": "E-Mail"
+    },
+    "nubank_imap": {
+        "habilitado": true,
+        "configurado": true,
+        "email": "mujasalu@gmail.com",
+        "senha": "bgwk fqzt cxgd tntw",
+        "chave_pix": "mujasalu@gmail.com"
+    }
+}

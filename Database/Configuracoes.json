@@ -1,0 +1,61 @@
+{
+    "prefixo": "n!",
+    "exibicao": "container",
+
+    "Cores": {
+    "Color_Primary": "16777215",
+    "Color_Secondary": "",
+    "Color_Sucess": "",
+    "Color_Warning": "",
+    "Color_Danger": "",
+    },
+    
+    "status": {
+        "Type":"custom", 
+        "Presence": "online",
+        "nome1": "",
+        "nome2": "",
+        "nome3": "",
+        "nome4": "",
+        "nome5": ""
+    },
+    
+    "Canais": {
+        "vendas": "",
+        "evento_de_compras": "",
+        "sistema": "1452191628885360760",
+        "entradas": "",
+        "saidas": "",
+        "mensagens": "",
+        "trafego_de_call": "",
+        "feedback": "",
+        "tickets": "",
+        "comandos": "",
+        "anti_fake": "",
+        "banimento": "",
+        "expulsões": "",
+        "castigos": "",
+        "cargos_adicionados": "",
+        "cargos_removidos": "",
+        "cargos_criados": "",
+        "cargos_deletados": "",
+        "cargos_editados": "",
+        "canais_criados": "",
+        "canais_deletados": "",
+        "canais_editados": "",
+        "permissões_adicionadas": "",
+        "permissões_removidas": ""
+    },
+    "cargos": {
+        "administrador": "",
+        "suporte": "",
+        "cliente": "",
+        "membro": "",
+        "verificado": ""
+    },
+    "anti_fake": {
+        "quantidade_dias": "",
+        "status_block": "",
+        "nomes_block": ""
+    }
+}

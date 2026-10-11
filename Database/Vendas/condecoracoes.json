@@ -1,0 +1,251 @@
+{
+    "habilitado": false,
+    "enviar_dm": false,
+    "anunciar": false,
+    "canal_anuncios": null,
+    "condecoracoes": {
+        "primeiraCompra": {
+            "nome": "Primeira Compra",
+            "emoji": "🏆",
+            "mensagem": "Parabéns! Você concluiu sua primeira compra em nossa loja! Continue comprando para desbloquear mais ...",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_compras",
+                "valor": 1
+            },
+            "personalizada": false
+        },
+        "tresProdutos": {
+            "nome": "Comprador Bronze",
+            "emoji": "🥉",
+            "mensagem": "Uau! Você já comprou 3 produtos em nossa loja! Sua dedicação é incrível!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_produtos_comprados",
+                "valor": 3
+            },
+            "personalizada": false
+        },
+        "cincoProdutos": {
+            "nome": "Comprador Prata",
+            "emoji": "🥈",
+            "mensagem": "Impressionante! Você atingiu a marca de 5 produtos comprados! Continue assim!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_produtos_comprados",
+                "valor": 5
+            },
+            "personalizada": false
+        },
+        "dezProdutos": {
+            "nome": "Comprador Ouro",
+            "emoji": "🥇",
+            "mensagem": "Extraordinário! Você já comprou 10 produtos! Você é um dos nossos clientes mais fiéis!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_produtos_comprados",
+                "valor": 10
+            },
+            "personalizada": false
+        },
+        "vinteProdutos": {
+            "nome": "Cliente VIP",
+            "emoji": "💎",
+            "mensagem": "Espetacular! Com 20 produtos comprados, você é oficialmente um cliente VIP! Agradecemos muito sua lealdade é incomparável!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_produtos_comprados",
+                "valor": 20
+            },
+            "personalizada": false
+        },
+        "cinquentaProdutos": {
+            "nome": "Cliente Lendário",
+            "emoji": "👑",
+            "mensagem": "Lendário! Você atingiu a incrível marca de 50 produtos! Sua lealdade é incomparável!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_produtos_comprados",
+                "valor": 50
+            },
+            "personalizada": false
+        },
+        "gastouCem": {
+            "nome": "Investidor",
+            "emoji": "💰",
+            "mensagem": "Você já investiu R$100 em nossa loja! Obrigado pela confiança e por acreditar em nossos produtos!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_gasto",
+                "valor": 100
+            },
+            "personalizada": false
+        },
+        "gastouQuinhentos": {
+            "nome": "MegaInvestidor",
+            "emoji": "🤑",
+            "mensagem": "Inacreditável! Você já investiu R$500 em nossa loja! Sua dedicação é extraordinária!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_gasto",
+                "valor": 500
+            },
+            "personalizada": false
+        },
+        "gastouMil": {
+            "nome": "Magnata",
+            "emoji": "🏦",
+            "mensagem": "Surpreendente! Você atingiu a marca de R$1000 investidos! Você é um verdadeiro magnata!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "total_gasto",
+                "valor": 1000
+            },
+            "personalizada": false
+        },
+        "compraRapida": {
+            "nome": "Um Atrás do Outro",
+            "emoji": "⚡",
+            "mensagem": "Velocidade incrível! Você fez duas compras em menos de 3 minutos! Seu entusiasmo nos deixa felizes!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "compras_em_tempo",
+                "quantidade": 2,
+                "tempo_minutos": 3
+            },
+            "personalizada": false
+        },
+        "madrugador": {
+            "nome": "Madrugador",
+            "emoji": "🌅",
+            "mensagem": "Comprando antes das 6h da manhã? Você realmente não perde tempo! Seu compromisso é admirável!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "compra_horario",
+                "hora_limite": 6
+            },
+            "personalizada": false
+        },
+        "compradorNoturno": {
+            "nome": "Comprador Noturno",
+            "emoji": "🌙",
+            "mensagem": "Enquanto outros dormem, você está aqui comprando após a meia-noite. Apreciamos sua dedicação!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "compra_horario",
+                "hora_limite": 0
+            },
+            "personalizada": false
+        },
+        "colecaoCompleta": {
+            "nome": "Colecionador",
+            "emoji": "🗃️",
+            "mensagem": "Você comprou pelo menos um item de cada produto disponível na loja. Um verdadeiro colecionador!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "todos_produtos_comprados"
+            },
+            "personalizada": false
+        },
+        "clienteFiel": {
+            "nome": "Fidelidade Suprema",
+            "emoji": "🤝",
+            "mensagem": "Você realizou compras em três meses consecutivos! Sua fidelidade é o que nos motiva a melhorar sempre...",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "compras_consecutivas_meses",
+                "valor": 3
+            },
+            "personalizada": false
+        },
+        "criticoConstrutivo": {
+            "nome": "Avaliador",
+            "emoji": "📝",
+            "mensagem": "Seu feedback é valioso para nós! Obrigado por dedicar seu tempo para ajudar a melhorar nossos produtos!",
+            "tipo": "feedback",
+            "condicao": {
+                "tipo": "total_feedbacks",
+                "valor": 1
+            },
+            "personalizada": false
+        },
+        "compraGrande": {
+            "nome": "Compra Baleia",
+            "emoji": "🐋",
+            "mensagem": "Uau! Você acabou de fazer uma compra de mais de R$100 em um único pedido! Isso é impressionante!",
+            "tipo": "vendas",
+            "condicao": {
+                "tipo": "compra_unica_valor",
+                "valor": 100
+            },
+            "personalizada": false
+        },
+        "sugestao100porcento": {
+            "nome": "Ideia Genial",
+            "emoji": "💡",
+            "mensagem": "Sua sugestão foi aprovada por 100% dos votantes! Uma mente brilhante!",
+            "tipo": "sugestoes",
+            "condicao": {
+                "tipo": "porcentagem_aprovacao",
+                "valor": 100
+            },
+            "personalizada": false
+        },
+        "sugestao5votos": {
+            "nome": "Influenciador Iniciante",
+            "emoji": "🗣️",
+            "mensagem": "Sua sugestão mobilizou 5 pessoas a votarem! Você está começando a influenciar!",
+            "tipo": "sugestoes",
+            "condicao": {
+                "tipo": "total_votos_sugestao",
+                "valor": 5
+            },
+            "personalizada": false
+        },
+        "sugestao10votos": {
+            "nome": "Formador de Opinião",
+            "emoji": "📢",
+            "mensagem": "Sua sugestão conseguiu 10 votos! As pessoas escutam o que você tem a dizer!",
+            "tipo": "sugestoes",
+            "condicao": {
+                "tipo": "total_votos_sugestao",
+                "valor": 10
+            },
+            "personalizada": false
+        },
+        "ganhou1sorteio": {
+            "nome": "Sorte Grande",
+            "emoji": "🍀",
+            "mensagem": "Parabéns! Você ganhou seu primeiro sorteio! Que a sorte continue ao seu lado!",
+            "tipo": "sorteios",
+            "condicao": {
+                "tipo": "total_sorteios_ganhos",
+                "valor": 1
+            },
+            "personalizada": false
+        },
+        "ganhou5sorteios": {
+            "nome": "Pé Quente",
+            "emoji": "🔥",
+            "mensagem": "Inacreditável! Você já ganhou 5 sorteios! Você é a própria sorte!",
+            "tipo": "sorteios",
+            "condicao": {
+                "tipo": "total_sorteios_ganhos",
+                "valor": 5
+            },
+            "personalizada": false
+        },
+        "ganhou10sorteios": {
+            "nome": "O Midas dos Sorteios",
+            "emoji": "👑",
+            "mensagem": "10 sorteios ganhos! Você transforma tudo em ouro!",
+            "tipo": "sorteios",
+            "condicao": {
+                "tipo": "total_sorteios_ganhos",
+                "valor": 10
+            },
+            "personalizada": false
+        }
+    },
+    "usuarios_condecoracoes": {}
+}

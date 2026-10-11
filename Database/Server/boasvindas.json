@@ -1,0 +1,20 @@
+{
+    "mensagens": {
+        "boas-vindas": {
+            "enabled": false,
+            "channel_id": null,
+            "tempoApagar": 1,
+            "estiloMensagem": {
+                "content": "",
+                "embed": {},
+                "image_url": null,
+                "buttons": []
+            }
+        }
+    },
+    "funcoes": {
+        "autoRole": {
+            "membro": true
+        }
+    }
+}

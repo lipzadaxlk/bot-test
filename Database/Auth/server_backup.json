@@ -1,0 +1,487 @@
+{
+    "guild_id": "1367260163513385040",
+    "name": "Psee Shop",
+    "icon_url": null,
+    "roles": [
+        {
+            "name": ".",
+            "color": 0,
+            "permissions": 2248473465835081,
+            "hoist": false,
+            "mentionable": false,
+            "position": 16
+        },
+        {
+            "name": "﹒donos",
+            "color": 657929,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 15
+        },
+        {
+            "name": "﹒Desenvolvedores",
+            "color": 9682918,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 14
+        },
+        {
+            "name": "﹒staff",
+            "color": 4156821,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 13
+        },
+        {
+            "name": "﹒hostinger acess",
+            "color": 16316665,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "﹒gen acess",
+            "color": 9625772,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "﹒ecstasy",
+            "color": 131586,
+            "permissions": 67584,
+            "hoist": true,
+            "mentionable": true,
+            "position": 10
+        },
+        {
+            "name": "﹒honrrado",
+            "color": 813555,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "﹒insônia",
+            "color": 7602417,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 8
+        },
+        {
+            "name": "﹒clientes",
+            "color": 16724224,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 7
+        },
+        {
+            "name": "﹒analistas",
+            "color": 16711680,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 6
+        },
+        {
+            "name": "﹒poster",
+            "color": 8959659,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 5
+        },
+        {
+            "name": "﹒jogos",
+            "color": 0,
+            "permissions": 2247951522988032,
+            "hoist": false,
+            "mentionable": false,
+            "position": 4
+        },
+        {
+            "name": "﹒design",
+            "color": 0,
+            "permissions": 2247951522988032,
+            "hoist": false,
+            "mentionable": false,
+            "position": 3
+        },
+        {
+            "name": "﹒bots",
+            "color": 0,
+            "permissions": 2247951522988032,
+            "hoist": false,
+            "mentionable": false,
+            "position": 2
+        },
+        {
+            "name": "Verificado",
+            "color": 25600,
+            "permissions": 0,
+            "hoist": true,
+            "mentionable": false,
+            "position": 1
+        },
+        {
+            "name": "tsste",
+            "color": 0,
+            "permissions": 8,
+            "hoist": false,
+            "mentionable": false,
+            "position": 1
+        },
+        {
+            "name": "Assyst",
+            "color": 0,
+            "permissions": 8,
+            "hoist": false,
+            "mentionable": false,
+            "position": 1
+        },
+        {
+            "name": "﹒membros",
+            "color": 15267827,
+            "permissions": 2248473465835073,
+            "hoist": true,
+            "mentionable": false,
+            "position": 1
+        }
+    ],
+    "channels": [
+        {
+            "name": "feedbacks",
+            "type": "text",
+            "category_name": null,
+            "position": 58,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 1024
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "feedbacks",
+            "type": "text",
+            "category_name": null,
+            "position": 59,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 1024
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "verificados",
+            "type": "text",
+            "category_name": null,
+            "position": 60,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 1024
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "⏝     🏷     ⏝",
+            "type": "category",
+            "position": 4,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942317073
+                }
+            ]
+        },
+        {
+            "name": "🛒〃pagamentos",
+            "type": "text",
+            "category_name": "⏝     🏷     ⏝",
+            "position": 5,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942317073
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "📬〃feedbacks",
+            "type": "text",
+            "category_name": "⏝     🏷     ⏝",
+            "position": 6,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942317073
+                },
+                {
+                    "id": "1367260163513385047",
+                    "type": "role",
+                    "allow": 2048,
+                    "deny": 377957122048
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "⏝     🖤     ⏝",
+            "type": "category",
+            "position": 8,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ]
+        },
+        {
+            "name": "📢〃anns",
+            "type": "text",
+            "category_name": "⏝     🖤     ⏝",
+            "position": 9,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "📚〃rules",
+            "type": "text",
+            "category_name": "⏝     🖤     ⏝",
+            "position": 10,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "🤣〃mural",
+            "type": "text",
+            "category_name": "⏝     🖤     ⏝",
+            "position": 11,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "🤍〃nick",
+            "type": "text",
+            "category_name": "⏝     🖤     ⏝",
+            "position": 12,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "⏝     🎈     ⏝",
+            "type": "category",
+            "position": 13,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ]
+        },
+        {
+            "name": "📞〃atendimento",
+            "type": "text",
+            "category_name": "⏝     🎈     ⏝",
+            "position": 14,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "STATUS:bdhhdhs 11",
+            "type": "voice",
+            "category_name": "⏝     🎈     ⏝",
+            "position": 0,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 395942349841
+                }
+            ]
+        },
+        {
+            "name": "⏝     🎲     ⏝",
+            "type": "category",
+            "position": 52,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 2048,
+                    "deny": 533381563473
+                }
+            ]
+        },
+        {
+            "name": "teste",
+            "type": "forum",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 0,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 2048,
+                    "deny": 533381563473
+                }
+            ]
+        },
+        {
+            "name": "🌍〃global",
+            "type": "text",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 53,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 2048,
+                    "deny": 533381563473
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "・chat",
+            "type": "text",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 54,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 0,
+                    "deny": 0
+                }
+            ],
+            "topic": "9",
+            "slowmode_delay": 0
+        },
+        {
+            "name": "・mídia",
+            "type": "text",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 55,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 35840,
+                    "deny": 533381529681
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 0
+        },
+        {
+            "name": "・divs",
+            "type": "text",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 56,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 52224,
+                    "deny": 533381513297
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 7200
+        },
+        {
+            "name": "・v3ndas",
+            "type": "text",
+            "category_name": "⏝     🎲     ⏝",
+            "position": 57,
+            "overwrites": [
+                {
+                    "id": "1367260163513385040",
+                    "type": "role",
+                    "allow": 52224,
+                    "deny": 533381513297
+                }
+            ],
+            "topic": null,
+            "slowmode_delay": 3600
+        }
+    ]
+}

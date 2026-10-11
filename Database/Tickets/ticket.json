@@ -1,0 +1,123 @@
+{
+    "ZrCzJxktFxRJ2": {
+        "nome": "Oi",
+        "description": "Teste",
+        "categorias": {
+            "d38GSAouLck9c": {
+                "nome": "Oi",
+                "descricao": "Asd",
+                "pre_descricao": "Oloko",
+                "emoji": null,
+                "schedule": {
+                    "override": false,
+                    "days": {
+                        "monday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "tuesday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "wednesday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "thursday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "friday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "saturday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        },
+                        "sunday": {
+                            "enabled": false,
+                            "start": "09:00",
+                            "end": "18:00"
+                        }
+                    }
+                }
+            }
+        },
+        "ids": [
+            "1450391958731096115_1450510901349322883",
+            "1450651919944257697_1450946711563407554"
+        ],
+        "message_config": {
+            "content": null,
+            "file_url": null,
+            "embed": {
+                "title": "XESTEER DÁ O CANECO PRA O GUSTA",
+                "description": "O xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu\nO xesteer dá o cu",
+                "color": null,
+                "author": {
+                    "name": "Labubu",
+                    "url": null,
+                    "icon_url": null
+                },
+                "footer": null,
+                "image": null,
+                "thumbnail": null,
+                "timestamp": false,
+                "fields": []
+            }
+        },
+        "schedule": {
+            "enabled": false,
+            "days": {
+                "monday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "tuesday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "wednesday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "thursday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "friday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "saturday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                },
+                "sunday": {
+                    "enabled": false,
+                    "start": "09:00",
+                    "end": "18:00"
+                }
+            }
+        },
+        "ia": {
+            "enabled": false,
+            "prompt": "Você é um assistente de suporte prestativo e amigável.",
+            "model": "mixtral-8x7b-32768",
+            "temperature": 0.7
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "repostagem": {
+        "sistema": false
+    },
+    "limpeza": {
+        "sistema": false,
+        "canal": [],
+        "delay": 0
+    },
+    "reacoes": {
+        "sistema": false,
+        "canal": [],
+        "emoji": ""
+    },
+    "mensagens_embed": [],
+    "mensagens_automaticas": [
+        {
+            "content": "Oi",
+            "embed": {
+                "title": "Slk",
+                "description": "Kkk",
+                "image": null,
+                "thumbnail": null,
+                "color": null
+            },
+            "buttons": [],
+            "id": "913095c2-adbf-41f0-9e42-cdfa517cee9e",
+            "sistema_ativo": true
+        }
+    ],
+    "sugestoes": {
+        "sistema": true,
+        "canal": 1450993402157072468,
+        "emoji_concordo": "<:confirm:1450201620569919610>",
+        "emoji_discordo": "<:no:1450201651163169011>",
+        "cor_embed": "0_ffffff"
+    },
+    "lock_unlock": {
+        "sistema": false,
+        "canal": [],
+        "tempo": 0,
+        "hora_trancar": "",
+        "hora_destrancar": "",
+        "canais_travados": []
+    },
+    "mensagens_content": [],
+    "random_gifs": {
+        "sistema": true,
+        "canal_icones": null,
+        "canal_gifs": null,
+        "canal_banners": null,
+        "tema": "0xf1c40f"
+    },
+    "respostas_automaticas": {
+        "sistema": true,
+        "respostas": [
+            {
+                "gatilhos": [
+                    "O xesteer d\u00e1 o cu"
+                ],
+                "resposta": "Sim, e v\u00e1rias vezes e pra todo mundo!"
+            }
+        ]
+    },
+    "contador": {
+        "sistema": false,
+        "canal_voz": null,
+        "canal_texto": null,
+        "template_voz": "",
+        "template_texto": ""
+    },
+    "invite_tracker": {
+        "sistema": false,
+        "canal_logs": null,
+        "mensagem": {
+            "content": null,
+            "embed": {},
+            "separador": null,
+            "separador_custom": null
+        },
+        "premios": {}
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "mensagens_bem_vindo": [
+        {
+            "id": "8f0ddda9-c199-4961-bce7-d4553e428b42",
+            "nome": "Boas vindas",
+            "enabled": true,
+            "enviar_dm": false,
+            "channel_id": null,
+            "tempoApagar": null,
+            "estiloMensagem": {
+                "content": "Bem-vindo(a) {mencao} ao servidor **{servidor}**!",
+                "embed": {},
+                "image_url": null,
+                "buttons": []
+            }
+        }
+    ],
+    "autorole": {
+        "enabled": false,
+        "cargo_principal_id": null,
+        "cargos_adicionais_ids": [],
+        "dar_cargo_apos_mensagem": false
+    }
+}

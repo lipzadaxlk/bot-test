@@ -1,0 +1,116 @@
+{
+    "extensoes": {
+        "like_ff": {
+            "instalado": false,
+            "idCargo": null,
+            "mensagem_enviada": {},
+            "config_msg": {
+                "content": null,
+                "embed": {},
+                "button": {
+                    "label": "Enviar Likes",
+                    "emoji": "\ud83d\udd25",
+                    "style": "green"
+                }
+            }
+        },
+        "tools": {
+            "instalado": false,
+            "modulos_instalados": [],
+            "ferramentas_system": {
+                "instalado": false,
+                "idCargoPermissao": null,
+                "idCanalLogs": null,
+                "config_msg": {
+                    "content": null,
+                    "embed": {},
+                    "select_emoji": "\ud83d\udee0\ufe0f"
+                }
+            },
+            "estoque_system": {
+                "instalado": false,
+                "idCanalLogs": null,
+                "config_msg": {
+                    "content": null,
+                    "embed": {},
+                    "button": {
+                        "label": "Pedir Estoque",
+                        "emoji": "\ud83d\udce6",
+                        "style": "green"
+                    }
+                }
+            }
+        },
+        "salers_members": {
+            "instalado": false
+        },
+        "gerador": {
+            "instalado": false,
+            "canal_gerador": 1367260165312872541,
+            "cargo_acesso": 1367260163559653382,
+            "ativado": true,
+            "prefixo": "g!",
+            "tema": "padr\u00e3o",
+            "guild_api_keys": {}
+        },
+        "manager_oauth2": {
+            "instalado": true
+        },
+        "hostinger": {
+            "instalado": true,
+            "api_url": "http://localhost:3000",
+            "api_key": "3b1921cd2f1c3d5ea6495b81798b9679efea35deff4f058d",
+            "config_msg": {
+                "embed": {
+                    "title": "Planos de Hospedagem",
+                    "description": "Escolha o melhor plano para seu bot!"
+                }
+            }
+        }
+    },
+    "botao_duvidas": {
+        "status": false,
+        "nomebotao": "Precisa de Ajuda?",
+        "emoji": "\u2753",
+        "linkbotao": null
+    },
+    "salers_members": {
+        "instalado": true,
+        "sistema_ativo": false,
+        "min_membros": 100,
+        "valor_por_membro": 0.01,
+        "config_msg": {
+            "content": null,
+            "embed": {
+                "title": "Comprar Membros OAuth2",
+                "description": "Clique no bot\u00e3o abaixo para comprar membros para o seu servidor."
+            },
+            "button": {
+                "label": "Comprar Membros",
+                "emoji": "\ud83d\udc65"
+            }
+        }
+    },
+    "termos_manual": {
+        "content": null,
+        "embed": {
+            "title": null,
+            "description": null,
+            "banner_url": null,
+            "thumbnail_url": null,
+            "color": null
+        }
+    },
+    "tema": "Branco",
+    "estilo_entrega": "Arquivo",
+    "estilos_carrinho": {
+        "revisao_pedido": "Padr\u00e3o",
+        "tela_pagamento": "Padr\u00e3o",
+        "entrega_produto": "Padr\u00e3o",
+        "produto_sem_estoque": "Moderno",
+        "pagamento_bloqueado": "Padr\u00e3o",
+        "style": "entrega",
+        "revisao": "pedido"
+    },
+    "tempo_fechamento": 0
+}

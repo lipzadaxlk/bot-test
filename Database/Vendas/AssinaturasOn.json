@@ -1,0 +1,26 @@
+{
+    "226341369113739264": [
+        {
+            "assinatura_id": "saYVAMNjwrcHo",
+            "produto_id": "xja7tE3bSuzSD",
+            "campo_id": "NYLCyeZ6Y5hH0",
+            "nome_produto": "Teste",
+            "nome_campo": "Teste",
+            "data_ativacao": "2025-08-03T05:12:27.461006",
+            "data_expiracao": "2025-09-02T05:12:27.461006",
+            "id_cargo_assinatura": null
+        }
+    ],
+    "1041460498694152212": [
+        {
+            "assinatura_id": "SAPMEg3iofxaF",
+            "produto_id": "xja7tE3bSuzSD",
+            "campo_id": "NYLCyeZ6Y5hH0",
+            "nome_produto": "Teste",
+            "nome_campo": "Teste",
+            "data_ativacao": "2025-08-03T05:24:36.678276",
+            "data_expiracao": "2025-09-02T05:24:36.678276",
+            "id_cargo_assinatura": null
+        }
+    ]
+}

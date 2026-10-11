@@ -1,0 +1,84 @@
+{
+    "canais": {
+        "logs_channel_id": null,
+        "criar": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "timeout",
+            "imunes_cargos": [],
+            "imunes_categorias": []
+        },
+        "editar": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "ban",
+            "imunes_cargos": [],
+            "imunes_categorias": []
+        },
+        "excluir": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "ban",
+            "imunes_cargos": [],
+            "imunes_categorias": []
+        }
+    },
+    "cargos": {
+        "logs_channel_id": null,
+        "criar": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "ban",
+            "imunes_cargos": []
+        },
+        "editar": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "ban",
+            "imunes_cargos": []
+        },
+        "excluir": {
+            "sistema": false,
+            "limite": 0,
+            "tempo_segundos": 0,
+            "acao": "ban",
+            "imunes_cargos": []
+        }
+    },
+    "banimento": {
+        "sistema": false,
+        "limite": 0,
+        "tempo_segundos": 0,
+        "acao": "reverter",
+        "logs_channel_id": null,
+        "imunes_cargos": []
+    },
+    "expulsao": {
+        "sistema": false,
+        "limite": 0,
+        "tempo_segundos": 0,
+        "acao": "reverter",
+        "logs_channel_id": null,
+        "imunes_cargos": []
+    },
+    "mencao": {
+        "sistema": false,
+        "limite_mencoes": 0,
+        "tempo_segundos": 0,
+        "acao": "timeout",
+        "logs_channel_id": null,
+        "imunes_cargos": []
+    },
+    "adicionar_bot": {
+        "sistema": false,
+        "logs_channel_id": null,
+        "acao": "ban_adicionador",
+        "imunes_cargos": [],
+        "whitelist_bots": []
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "xja7tE3bSuzSD": {
+        "nome": "Teste",
+        "desc": "Teste",
+        "entrega": true,
+        "assets": {
+            "icon": "",
+            "banner": "",
+            "hex": "00FFFF"
+        },
+        "campos": {
+            "NYLCyeZ6Y5hH0": {
+                "nome": "Teste",
+                "desc": "Teste",
+                "preco": "0.10",
+                "emoji": "",
+                "condicoes": {
+                    "valorMin": null,
+                    "valorMax": null,
+                    "quantidadeMin": null,
+                    "quantidadeMax": null,
+                    "idCargo": []
+                },
+                "estoque": [
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj",
+                    "Sjsjdj"
+                ],
+                "estoqueinfo": {
+                    "last": 1753999575,
+                    "alertas": []
+                },
+                "cargos": {
+                    "add": [
+                        1367260163513385047
+                    ],
+                    "rem": []
+                },
+                "is_subscription": true,
+                "subscription_details": {
+                    "vip_enabled": true,
+                    "inactivity_enabled": true,
+                    "hide_call_enabled": true
+                }
+            }
+        },
+        "criadoEm": 1753999536,
+        "cupons": {},
+        "ids": [
+            {
+                "1367260165312872541": "1400600524759236792"
+            },
+            {
+                "1367260165312872541": "1401432341838299147"
+            },
+            {
+                "1367260165312872541": "1406340885762936853"
+            },
+            {
+                "1450193317341040660": "1450197652816920708"
+            },
+            {
+                "1450200401046667455": "1450201705445851198"
+            }
+        ]
+    },
+    "produto_hostinger_anti_ethical": {
+        "nome": "Plano de Hospedagem",
+        "descricao": "Planos de hospedagem.",
+        "entrega": false,
+        "mensagens": [],
+        "campos": {},
+        "cupons": {}
+    }
+}

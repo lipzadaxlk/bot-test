@@ -1,0 +1,22 @@
+{
+    "226341369113739264": {
+        "nome": "\ud83d\udc15 Cachorro",
+        "nivel": 900,
+        "xp": 0,
+        "damage": 9010,
+        "shield": 7207,
+        "health": 13585,
+        "critical": 454.5,
+        "last_reward": "2025-07-31T05:09:53.058808"
+    },
+    "1386471972149661826": {
+        "nome": "\ud83d\udc30 Coelho",
+        "nivel": 1000,
+        "xp": 0,
+        "damage": 10010,
+        "shield": 8007,
+        "health": 15085,
+        "critical": 504.5,
+        "last_reward": "2025-07-31T05:08:52.234040"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "token": "SEU_TOKEN_DO_DISCORD_AQUI",
+  "owner": "SEU ID",
+  "botid": "",
+  "CLIENT_ID": "",
+  "EXPIRATION": "",
+  "versao": "Beta 0.0.0.0",
+  "site": "SEU_LINK_DO_DISCORD",
+  "sistema": true,
+  "status": {
+    "type": "online",
+    "name1": "Seu bot está online!",
+    "name2": "Use /Painel",
+    "name3": "Powered by Cyras",
+    "name4": "",
+    "name5": ""
+  },
+  "server": "",
+  "prefix": "n!"
+}

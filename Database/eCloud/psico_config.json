@@ -1,0 +1,8 @@
+{
+    "verificado_obrigatorio": false,
+    "sincronizacao_inteligente": false,
+    "cargo_persistente": false,
+    "checkVPN": false,
+    "checkProxy": false,
+    "checkAlt": false
+}

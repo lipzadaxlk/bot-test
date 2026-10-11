@@ -1,0 +1,22 @@
+{
+    "canal_logs_id": 1367260165312872541,
+    "cargo_id": 1367260163559653382,
+    "indicados_ids": [
+        1398323458726952980,
+        287275624253620235
+    ],
+    "content": "Tests",
+    "embed": {
+        "title": "Tests",
+        "description": "Tssts",
+        "color": 3447003
+    },
+    "botao": {
+        "label": "Indicar",
+        "emoji": "\ud83d\udcde",
+        "style": "success"
+    },
+    "pessoas_ids": [
+        226341369113739264
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "OHpP5RSwSdJGk": {
+        "ticketID": "mt6bYhRVmwmcl",
+        "categoriaID": "9gVuGpAxg1pwQ",
+        "server": {
+            "userID": 1362569869467582636,
+            "topicID": 1450195501986353162
+        },
+        "ia": {
+            "enabled": false,
+            "assumed": false
+        }
+    },
+    "NaoEV7IQvkKyE": {
+        "ticketID": "mt6bYhRVmwmcl",
+        "categoriaID": "9gVuGpAxg1pwQ",
+        "server": {
+            "userID": 1432011598209351822,
+            "topicID": 1450195515005206578
+        },
+        "ia": {
+            "enabled": false,
+            "assumed": false
+        }
+    },
+    "5FAoB3tdY37yB": {
+        "ticketID": "mt6bYhRVmwmcl",
+        "categoriaID": "9gVuGpAxg1pwQ",
+        "server": {
+            "userID": 1243892937356742713,
+            "topicID": 1450253181022900366
+        },
+        "ia": {
+            "enabled": false,
+            "assumed": false
+        }
+    },
+    "gv4UuJb6CMNJ5": {
+        "ticketID": "ZrCzJxktFxRJ2",
+        "categoriaID": "d38GSAouLck9c",
+        "server": {
+            "userID": 1435708442080706660,
+            "topicID": 1450262011282854060
+        },
+        "ia": {
+            "enabled": false,
+            "assumed": false
+        }
+    }
+}

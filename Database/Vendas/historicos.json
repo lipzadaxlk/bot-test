@@ -1,0 +1,64 @@
+{
+    "saYVAMNjwrcHo": {
+        "server": {
+            "guildID": 1367260163513385040,
+            "carrinho": 1401432351338266675,
+            "usuario": 226341369113739264,
+            "review_msg_id": 1401432352340574228
+        },
+        "itens": [
+            {
+                "produtoID": "xja7tE3bSuzSD",
+                "campoID": "NYLCyeZ6Y5hH0",
+                "quantidade": 1,
+                "valor_unitario": "0.10",
+                "valor_total": "0.10"
+            }
+        ],
+        "info": {
+            "valorFinal": "0.10",
+            "pagamento": {
+                "metodo": "SemiAuto",
+                "copiacola": "snoowonly@gmail.com",
+                "url": "https://api.qrcode-monkey.com/tmp/2b7f58c1d9b710db0987f7acab8e4164.png"
+            },
+            "cupom": {
+                "usado": null,
+                "valorAntes": "0.10"
+            },
+            "timestamp": "03/08/2025 05:12",
+            "reembolso": false
+        }
+    },
+    "SAPMEg3iofxaF": {
+        "server": {
+            "guildID": 1367260163513385040,
+            "carrinho": 1401435516456534088,
+            "usuario": 1041460498694152212,
+            "review_msg_id": 1401435517492531230
+        },
+        "itens": [
+            {
+                "produtoID": "xja7tE3bSuzSD",
+                "campoID": "NYLCyeZ6Y5hH0",
+                "quantidade": 1,
+                "valor_unitario": "0.10",
+                "valor_total": "0.10"
+            }
+        ],
+        "info": {
+            "valorFinal": "0.10",
+            "pagamento": {
+                "metodo": "SemiAuto",
+                "copiacola": "snoowonly@gmail.com",
+                "url": "https://api.qrcode-monkey.com/tmp/2b7f58c1d9b710db0987f7acab8e4164.png"
+            },
+            "cupom": {
+                "usado": null,
+                "valorAntes": "0.10"
+            },
+            "timestamp": "03/08/2025 05:24",
+            "reembolso": false
+        }
+    }
+}

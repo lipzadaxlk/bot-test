@@ -1,0 +1,14 @@
+requests
+disnake
+pyopenssl
+efipay
+mercadopago
+matplotlib
+numpy
+groq
+pynacl
+pytz
+squarecloud-api
+discloud
+motor
+gtts

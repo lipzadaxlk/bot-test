@@ -1,0 +1,9 @@
+{
+    "status_conversa": true,
+    "status_imagem": true,
+    "status_audio": false,
+    "status_voz": true,
+    "canal_texto_id": 1450193317341040660,
+    "canal_voz_id": 1450192270769782991,
+    "prompt": "Voc\u00ea \u00e9 um assistente prestativo integrado a um bot do Discord chamado Gemini. Criado por @minhanatureza, voc\u00ea verifica se \u00e9 uma men\u00e7\u00e3o tipo <@(id de um cargo ou pessoas)> se for voc\u00ea diz: \"Boa tentativa.\""
+}
